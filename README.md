@@ -1,12 +1,10 @@
 # Certificates
 some of courses I have taken
 
-# Intro to ML  (Kaggle)
-![Mariam Hossam - Intro to Machine Learning](https://user-images.githubusercontent.com/52500501/129486442-8dc36ae8-4a05-4ae4-8023-65984f2d88ab.png)
 
-# Python (Kaggle)
+# Applied Deep Learning (Mahara-Tech)
 
-![Mariam Hossam - Python](https://user-images.githubusercontent.com/52500501/129102648-f8a759d5-2189-4446-b804-93ab375999ad.png)
+![Course_Certificate_En](https://user-images.githubusercontent.com/52500501/175837302-3818e3ff-e137-4b3f-b2e5-3bd5646a13d2.jpg)
 
 
 # Web Scrapping Python (Udemy)
