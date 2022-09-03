@@ -1,6 +1,9 @@
 # Certificates
 some of courses I have taken
 
+# English (Udemy)
+
+![English Grammar](https://user-images.githubusercontent.com/52500501/188263212-9d39904a-aa6c-4482-923f-9193b323c11f.jpg)
 
 # Applied Deep Learning (Mahara-Tech)
 
@@ -15,9 +18,6 @@ some of courses I have taken
 
 ![udemy_php mysql](https://user-images.githubusercontent.com/52500501/128648391-cd02fb41-bd47-4dd8-923a-21ef26f0080b.jpg)
 
-#English (Udemy)
-
-![English Grammar](https://user-images.githubusercontent.com/52500501/188263212-9d39904a-aa6c-4482-923f-9193b323c11f.jpg)
 
 
 
