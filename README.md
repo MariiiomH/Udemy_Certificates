@@ -1,6 +1,3 @@
-# Certificates
-some of courses I have taken
-
 # Build an API with Python , Django , SQLite![WhatsApp Image 2023-03-16 at 10 27 52 PM](https://user-images.githubusercontent.com/52500501/226011694-8c55a2cc-f47a-4fd0-9541-8cff6eafdef4.jpeg)
 
 
